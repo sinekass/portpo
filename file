@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="pro.css">
+  <title>My Portfolio</title>
+ 
+</head>
+<body>
+  <header>
+    <h1>MY PORTFOLIO</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#bio">bio</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home">
+      <h2>SINEKA S </h2>
+      <p><i>BE POSITIVE BE HAPPY</i></p>
+      <img src="fin4.jpg" alt="Profile Picture">
+
+    </section>
+
+    <section id="bio">
+      <h2>ABOUT</h2>
+      <p>My self SINEKA S. Currently I am pursuing BE final year in Muthayammal Engineering college,Rasipuram.<br>
+        Basically I am a optimistic person.I believe God very much. I am a smart worker and easily flexible person.I love my family very much.<br> 
+        I have basic coding knowledge about JAVA,HTML,CSS and SQL. I am very much interested to learn new things.<br>
+       </p>
+    </section>
+
+    <section id="portfolio">
+      <p><mark>MY PROJECTS</mark></p>
+      <h3><i>Rain Detector Alarm</i></h3>
+      <h3><i>Anti Sleep Device For Drivers</i></h3>
+      <p><mark>MY ACHIEVEMENTS</mark></p>
+      <h3><i>Achieved Distinction in  English Type writing</i></h3>
+      <h3><i>Achieved First in Paper presentation</i></h3>
+      <h3><i>Achieved First in Tamil speech competition</i></h3>
+    </section>
+
+    <section id="skills">
+      <h2>TECHNICAL SKILLS</h2>
+
+      <ul>
+        <li><b>JAVA</b></li>
+        <li><progress value="70" max="100" ></progress></li>
+        <li><b>HTML</b></li>
+        <li><progress value="80" max="100"></progress></li>
+        <li><b>CSS</b></li>
+        <li><progress value="70" max="100"></progress></li>
+       
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>CONTACT ME</h2>
+      <p>📱-9944691520</p>
+      <p>📧-mathisineka@gmail.com</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 My Portfolio. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+
